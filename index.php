@@ -177,32 +177,32 @@ header("refresh: 600;");
                                                     <tbody class="marquee-magang">
                                                         <tr class="text-center">
                                                             <th>SDM</th>
+                                                            <td>6</td>
                                                             <td>3</td>
-                                                            <td>1</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>Plasma</th>
                                                             <td>0</td>
-                                                            <td>2</td>
                                                             <td>0</td>
+                                                            <td>2</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>Tekpol</th>
-                                                            <td>2</td>
+                                                            <td>1</td>
                                                             <td>0</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>Keuangan</th>
                                                             <td>0</td>
-                                                            <td>1</td>
+                                                            <td>2</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>Sekper</th>
                                                             <td>0</td>
-                                                            <td>4</td>
+                                                            <td>0</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
@@ -213,27 +213,27 @@ header("refresh: 600;");
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>Logistik</th>
-                                                            <td>1</td>
                                                             <td>0</td>
                                                             <td>0</td>
+                                                            <td>2</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>SPI</th>
                                                             <td>1</td>
-                                                            <td>2</td>
+                                                            <td>0</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>Rensus</th>
-                                                            <td>2</td>
                                                             <td>1</td>
                                                             <td>0</td>
+                                                            <td>13</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>Jumlah</th>
                                                             <th>11</th>
-                                                            <th>12</th>
-                                                            <th>0</th>
+                                                            <th>6</th>
+                                                            <th>17</th>
                                                         </tr>
                                                     </tbody>
                                                 </table>

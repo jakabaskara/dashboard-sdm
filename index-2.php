@@ -191,13 +191,13 @@
                                                         <tr class="text-center">
                                                             <th>13.SPI</th>
                                                             <td>1</td>
-                                                            <td>1</td>
+                                                            <td>0</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>13.01</th>
-                                                            <td>0</td>
-                                                            <td>3</td>
+                                                            <td>2</td>
+                                                            <td>1</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
@@ -208,39 +208,39 @@
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>13.03</th>
+                                                            <td>1</td>
                                                             <td>0</td>
-                                                            <td>0</td>
-                                                            <td>0</td>
+                                                            <td>2</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>13.04</th>
-                                                            <td>0</td>
+                                                            <td>2</td>
                                                             <td>2</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>13.05</th>
+                                                            <td>6</td>
                                                             <td>3</td>
-                                                            <td>0</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>13.06</th>
                                                             <td>0</td>
                                                             <td>4</td>
-                                                            <td>0</td>
+                                                            <td>2</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>13.07</th>
-                                                            <td>2</td>
                                                             <td>1</td>
                                                             <td>0</td>
+                                                            <td>13</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>Jumlah</th>
+                                                            <th>11</th>
                                                             <th>6</th>
-                                                            <th>16</th>
-                                                            <th>0</th>
+                                                            <th>17</th>
                                                         </tr>
                                                         <tr>
                                                             <td></td>
@@ -410,8 +410,8 @@
                                                     <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="3" aria-label="Slide 4"></button>
                                                     <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="4" aria-label="Slide 5"></button>
                                                     <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="5" aria-label="Slide 6"></button>
-                                                    <!--<button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="6" aria-label="Slide 7"></button>
-                                                    <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="7" aria-label="Slide 8"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="6" aria-label="Slide 7"></button>
+                                                    <!--<button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="7" aria-label="Slide 8"></button>
                                                     <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="8" aria-label="Slide 9"></button>
                                                     <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="9" aria-label="Slide 10"></button> -->
                                                     <!-- <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="10" aria-label="Slide 11"></button> -->
@@ -452,7 +452,7 @@
                                                             <p>Berisi Tulisan SDM dan Proses Bisnis SDM</p>
                                                         </div>
                                                     </div> -->
-                                                    <!-- <div class="carousel-item" data-mdb-interval="100000">
+                                                    <!--<div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/poster2.jpeg" class="d-block w-100" alt="Camera" />
                                                     </div> -->
                                                     <div class="carousel-item" data-mdb-interval="50000">
@@ -464,9 +464,9 @@
                                                     <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/Foto Burdas2.jpeg" class="d-block w-100" alt="Camera" />
                                                     </div>
-                                                    <!-- <div class="carousel-item" data-mdb-interval="100000">
-                                                        <img src="image/FotoTV (4).png" class="d-block w-100" alt="Camera" />
-                                                    </div> -->
+                                                    <div class="carousel-item" data-mdb-interval="100000">
+                                                        <img src="image/foto sdm 2.jpeg" class="d-block w-100" alt="Camera" />
+                                                    </div>
                                                     <!-- <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/ptpn-mengajar3.jpeg" class="d-block mx-auto w-75" alt="Camera" />
                                                     </div> -->
