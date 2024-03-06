@@ -59,30 +59,28 @@
             background-color: #171E24;
         }
 
-        @keyframes marquee {
-            0% {
-                transform: translate(0, 0);
-            }
+        <blade keyframes|%20marquee%20%7B%0D>0% {
+            transform: translate(0, 0);
+        }
 
-            100% {
-                transform: translate(0, -70%);
-            }
+        100% {
+            transform: translate(0, -70%);
+        }
 
-            /* 100% {
+        /* 100% {
                 transform: translate(0, 0);
             } */
         }
 
-        @keyframes marquee-magang {
-            0% {
-                transform: translate(0, 0);
-            }
+        <blade keyframes|%20marquee-magang%20%7B%0D>0% {
+            transform: translate(0, 0);
+        }
 
-            100% {
-                transform: translate(0, -100%);
-            }
+        100% {
+            transform: translate(0, -100%);
+        }
 
-            /* 100% {
+        /* 100% {
                 transform: translate(0, 0);
             } */
         }
@@ -92,10 +90,9 @@
             -webkit-animation: blink-animation 1s steps(5, start) infinite;
         }
 
-        @keyframes blink-animation {
-            to {
-                visibility: hidden;
-            }
+        <blade keyframes|%20blink-animation%20%7B%0D>to {
+            visibility: hidden;
+        }
         }
 
         @-webkit-keyframes blink-animation {
@@ -119,13 +116,17 @@
                                 <div class="col-12">
                                     <div class="card shadow-5" style="max-height: 230px; overflow: hidden;">
                                         <div class="card-header m-0 p-2 text-white" style="background-color: #2C4542;">
-                                            <h4 class="text-center my-0"><span><i class="fas fas fa-user-tie fa-xs"></i></span> Jumlah Karyawan </h4>
+                                            <h4 class="text-center my-0"><span><i
+                                                        class="fas fas fa-user-tie fa-xs"></i></span> Jumlah Karyawan
+                                            </h4>
                                         </div>
                                         <div class="card-body p-0">
                                             <div class="table-responsive">
-                                                <table class="table table-sm table-borderless" style="background-color: #171E24;">
+                                                <table class="table table-sm table-borderless"
+                                                    style="background-color: #171E24;">
                                                     <thead class="head-table">
-                                                        <tr class="text-center text-white head-table" style="font-size: 26px;">
+                                                        <tr class="text-center text-white head-table"
+                                                            style="font-size: 26px;">
                                                             <th>Level Jabatan</th>
                                                             <th>Jumlah</th>
                                                         </tr>
@@ -167,12 +168,14 @@
                                 </div>
                                 <div class="col-12 mt-2">
                                     <div class="card" style="height: 220px; overflow: hidden;">
-                                        <div class="card-header card-header m-0 pb-0 pt-1" style="background-color: #213558;">
+                                        <div class="card-header card-header m-0 pb-0 pt-1"
+                                            style="background-color: #213558;">
                                             <h4 class="text-center text-white">Data Anak Magang</h4>
                                         </div>
                                         <div class="card-body p-1" style="background-color: #171E24;">
                                             <div class="table-responsive">
-                                                <table class="table table-hover table-sm text-dark table-borderless" style="background-color: #171E24; font-size: 17px;">
+                                                <table class="table table-hover table-sm text-dark table-borderless"
+                                                    style="background-color: #171E24; font-size: 17px;">
                                                     <thead>
                                                         <tr class="text-center align-middle head-table text-white">
                                                             <th>Bagian</th>
@@ -251,7 +254,8 @@
                                         <div class="card-header pb-0 pt-1" style="background-color: #573F00;">
                                             <h4 class="text-center text-white">Informasi</h4>
                                         </div>
-                                        <div class="card-body py-0 my-0 d-flex align-items-center justify-content-center" style="font-size: 18px; height: 100px;">
+                                        <div class="card-body py-0 my-0 d-flex align-items-center justify-content-center"
+                                            style="font-size: 18px; height: 100px;">
                                             <p class="my-3 text-white align-middle">Belum Ada Informasi</p>
                                             <!-- <p class="text-start pt-0 mt-0"><strong>Plt Kepala Bagian: Joko Susanto</strong></p>
                                             <p class="mt-0 pb-0 mb-0 pt-0 text-start">Karyawan Dinas:
@@ -289,7 +293,9 @@
                                             <h4 class="text-white p-0 m-0">Jadwal Hari Ini</h4>
                                         </div>
                                         <div class=" card-body p-2">
-                                            <p class="alert alert-info py-2 px-2 text-start"><span><i class="far fa-circle-dot text-danger blink"></i></span> Hari Ini</p>
+                                            <p class="alert alert-info py-2 px-2 text-start"><span><i
+                                                        class="far fa-circle-dot text-danger blink"></i></span> Hari Ini
+                                            </p>
                                             <div class="table-responsive">
                                                 <table class="table table-sm table-hover table-bordered text-white">
                                                     <thead>
@@ -341,7 +347,8 @@
                                             </div>
                                             <p class="alert alert-success py-2 px-2 text-start"> Akan Datang</p>
                                             <div class="table-responsive">
-                                                <table class="table table-striped table-sm table-hover table-bordered text-white">
+                                                <table
+                                                    class="table table-striped table-sm table-hover table-bordered text-white">
                                                     <thead>
                                                         <tr>
                                                             <th>Jam</th>
@@ -395,16 +402,31 @@
                                     <div class="row align-middle">
                                         <div class="col">
                                             <!-- Carousel wrapper -->
-                                            <div id="carouselVideoExample" class="carousel slide carousel-fade" data-mdb-ride="carousel">
+                                            <div id="carouselVideoExample" class="carousel slide carousel-fade"
+                                                data-mdb-ride="carousel">
                                                 <!-- Indicators -->
                                                 <div class="carousel-indicators">
-                                                    <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                                                    <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="1" aria-label="Slide 2"></button>
-                                                    <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="2" aria-label="Slide 3"></button>
-                                                    <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="3" aria-label="Slide 4"></button>
-                                                    <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="4" aria-label="Slide 5"></button>
-                                                    <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="5" aria-label="Slide 6"></button>
-                                                    <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="6" aria-label="Slide 7"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="0" class="active" aria-current="true"
+                                                        aria-label="Slide 1"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="1" aria-label="Slide 2"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="2" aria-label="Slide 3"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="3" aria-label="Slide 4"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="4" aria-label="Slide 5"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="5" aria-label="Slide 6"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="6" aria-label="Slide 7"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="7" aria-label="Slide 8"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="8" aria-label="Slide 9"></button>
+                                                    <button type="button" data-mdb-target="#carouselVideoExample"
+                                                        data-mdb-slide-to="9" aria-label="Slide 10"></button>
                                                     <!--<button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="7" aria-label="Slide 8"></button>
                                                     <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="8" aria-label="Slide 9"></button>
                                                     <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="9" aria-label="Slide 10"></button> -->
@@ -418,7 +440,8 @@
                                                     <div class="carousel-item active" data-mdb-interval="50000">
                                                         <div class="row justify-content-center align-item-center">
                                                             <div class="col align-middle">
-                                                                <img src="image/OPBP-1.jpeg" class="d-block w-100" alt="Camera" />
+                                                                <img src="image/OPBP-1.jpeg" class="d-block w-100"
+                                                                    alt="Camera" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -426,7 +449,8 @@
                                                     <div class="carousel-item" data-mdb-interval="50000">
                                                         <div class="row justify-content-center align-item-center">
                                                             <div class="col align-middle">
-                                                                <img src="image/OPBP-2.jpeg" class="d-block w-100" alt="Camera" />
+                                                                <img src="image/OPBP-2.jpeg" class="d-block w-100"
+                                                                    alt="Camera" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -450,16 +474,35 @@
                                                         <img src="image/poster2.jpeg" class="d-block w-100" alt="Camera" />
                                                     </div> -->
                                                     <div class="carousel-item" data-mdb-interval="50000">
-                                                        <img src="image/Foto Stunting 1.jpeg" class="d-block w-100" alt="Camera" />
+                                                        <img src="image/Foto Stunting 1.jpeg" class="d-block w-100"
+                                                            alt="Camera" />
                                                     </div>
                                                     <div class="carousel-item" data-mdb-interval="100000">
+                                                        <img src="image/pak joko kantor.png" class="d-block w-100"
+                                                            alt="Camera" />
+                                                    </div>
+                                                    <!-- <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/Foto Burdas1.jpeg" class="d-block w-100" alt="Camera" />
+                                                    </div> -->
+                                                    <div class="carousel-item" data-mdb-interval="100000">
+                                                        <img src="image/rapatcuti.png" class="d-block w-100"
+                                                            alt="Camera" />
                                                     </div>
                                                     <div class="carousel-item" data-mdb-interval="100000">
-                                                        <img src="image/Foto Burdas2.jpeg" class="d-block w-100" alt="Camera" />
+                                                        <img src="image/Foto Burdas2.jpeg" class="d-block w-100"
+                                                            alt="Camera" />
                                                     </div>
                                                     <div class="carousel-item" data-mdb-interval="100000">
-                                                        <img src="image/foto sdm 2.jpeg" class="d-block w-100" alt="Camera" />
+                                                        <img src="image/pak joko kebun.png" class="d-block w-100"
+                                                            alt="Camera" />
+                                                    </div>
+                                                    <div class="carousel-item" data-mdb-interval="100000">
+                                                        <img src="image/foto sdm 2.jpeg" class="d-block w-100"
+                                                            alt="Camera" />
+                                                    </div>
+                                                    <div class="carousel-item" data-mdb-interval="100000">
+                                                        <img src="image/pak joko kantor2.png" class="d-block w-100"
+                                                            alt="Camera" />
                                                     </div>
                                                     <!-- <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/ptpn-mengajar3.jpeg" class="d-block mx-auto w-75" alt="Camera" />
@@ -468,7 +511,8 @@
                                                         <img src="image/Desain tanpa judul.gif" class="d-block w-100" alt="Camera" />
                                                     </div> -->
                                                     <div class="carousel-item" data-mdb-interval="50000">
-                                                        <img src="image/quote-sdm1.png" class="d-block w-100" alt="Camera" />
+                                                        <img src="image/quote-sdm1.png" class="d-block w-100"
+                                                            alt="Camera" />
                                                     </div>
 
 
@@ -477,11 +521,13 @@
                                                 <!-- Inner -->
 
                                                 <!-- Controls -->
-                                                <button class="carousel-control-prev" type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide="prev">
+                                                <button class="carousel-control-prev" type="button"
+                                                    data-mdb-target="#carouselVideoExample" data-mdb-slide="prev">
                                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                                     <span class="visually-hidden">Previous</span>
                                                 </button>
-                                                <button class="carousel-control-next" type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide="next">
+                                                <button class="carousel-control-next" type="button"
+                                                    data-mdb-target="#carouselVideoExample" data-mdb-slide="next">
                                                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                                     <span class="visually-hidden">Next</span>
                                                 </button>
@@ -506,7 +552,11 @@
                     </div>
                     <div class="col  m-0 d-flex align-items-center justify-content-center bg-dark">
                         <marquee behavior="scroll" direction="left" class="text-white ">
-                            <h5 class="m-0 pt-0 d-flex" style="font-size: 54px;">Selamat Datang di Bagian Sumber Daya Manusia Kantor Direksi | AKHLAK - Amanah, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif | Amanah: Memenuhi Janji dan Komitmen, Bertanggung jawab atas tugas, Keputusan, dan Tindakan yang Dilakukan, Berpegang Teguh kepada Nilai Moral dan Etika </h5>
+                            <h5 class="m-0 pt-0 d-flex" style="font-size: 54px;">Selamat Datang di Bagian Sumber Daya
+                                Manusia Kantor Direksi | AKHLAK - Amanah, Kompeten, Harmonis, Loyal, Adaptif,
+                                Kolaboratif | Amanah: Memenuhi Janji dan Komitmen, Bertanggung jawab atas tugas,
+                                Keputusan, dan Tindakan yang Dilakukan, Berpegang Teguh kepada Nilai Moral dan Etika
+                            </h5>
                         </marquee>
                     </div>
                 </div>
@@ -533,7 +583,7 @@
         showTime();
 
         var pdfViewer = document.getElementById('pdfViewer'); // Ganti dengan ID atau selector yang tepat
-        pdfViewer.onload = function() {
+        pdfViewer.onload = function () {
             var totalHeight = pdfViewer.contentWindow.document.body.scrollHeight;
             pdfViewer.contentWindow.scrollTo(0, totalHeight);
         };
