@@ -186,52 +186,58 @@
                                                     </thead>
                                                     <tbody class="marquee-magang text-white" style="font-size: 26px;">
                                                         <tr class="text-center">
-                                                            <th>5SKH</th>
+                                                            <th>13.00</th>
                                                             <td>0</td>
-                                                            <td>0</td>
+                                                            <td>4</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
-                                                            <th>SPI</th>
+                                                            <th>13.SPI</th>
                                                             <td>1</td>
                                                             <td>0</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
-                                                            <th>5TAN</th>
+                                                            <th>13.01</th>
                                                             <td>2</td>
                                                             <td>1</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
-                                                            <th>PLASMA</th>
+                                                            <th>13.02</th>
                                                             <td>0</td>
                                                             <td>1</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
-                                                            <th>5TEP</th>
+                                                            <th>13.03</th>
                                                             <td>1</td>
                                                             <td>0</td>
                                                             <td>2</td>
                                                         </tr>
                                                         <tr class="text-center">
-                                                            <th>5AKN</th>
+                                                            <th>13.04</th>
                                                             <td>2</td>
                                                             <td>2</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
-                                                            <th>5SDM</th>
+                                                            <th>13.05</th>
                                                             <td>6</td>
                                                             <td>3</td>
                                                             <td>0</td>
                                                         </tr>
                                                         <tr class="text-center">
-                                                            <th>5PTI</th>
+                                                            <th>13.06</th>
                                                             <td>0</td>
                                                             <td>4</td>
                                                             <td>2</td>
+                                                        </tr>
+                                                        <tr class="text-center">
+                                                            <th>13.07</th>
+                                                            <td>1</td>
+                                                            <td>0</td>
+                                                            <td>13</td>
                                                         </tr>
                                                         <tr class="text-center">
                                                             <th>Jumlah</th>
