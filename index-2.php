@@ -519,13 +519,13 @@
                               data-mdb-slide-to="6"
                               aria-label="Slide 7"
                             ></button>
-                            <button
+                            <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="7"
                               aria-label="Slide 8"
-                            ></button>
-                            <button
+                            ></button> -->
+                            <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="8"
@@ -536,7 +536,7 @@
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="9"
                               aria-label="Slide 10"
-                            ></button>
+                            ></button> -->
                             <!--<button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="7" aria-label="Slide 8"></button>
                                                     <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="8" aria-label="Slide 9"></button>
                                                     <button type="button" data-mdb-target="#carouselVideoExample" data-mdb-slide-to="9" aria-label="Slide 10"></button> -->
@@ -563,7 +563,7 @@
                               </div>
                             </div>
 
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="50000"
                             >
@@ -578,7 +578,7 @@
                                   />
                                 </div>
                               </div>
-                            </div>
+                            </div> -->
 
                             <!-- <div class="carousel-item" data-mdb-interval="50000">
                                                         <img src="image/fotoSDM (4).jpeg" class="d-block w-100" alt="Camera" />
@@ -598,7 +598,7 @@
                             <!--<div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/poster2.jpeg" class="d-block w-100" alt="Camera" />
                                                     </div> -->
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="50000"
                             >
@@ -607,7 +607,7 @@
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div>
+                            </div> -->
                             <div
                               class="carousel-item"
                               data-mdb-interval="100000"
@@ -631,7 +631,7 @@
                                 alt="Camera"
                               />
                             </div>
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="100000"
                             >
@@ -640,7 +640,7 @@
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div>
+                            </div> -->
                             <div
                               class="carousel-item"
                               data-mdb-interval="100000"
