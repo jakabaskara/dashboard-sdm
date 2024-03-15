@@ -519,6 +519,12 @@
                               data-mdb-slide-to="6"
                               aria-label="Slide 7"
                             ></button>
+                            <button
+                              type="button"
+                              data-mdb-target="#carouselVideoExample"
+                              data-mdb-slide-to="7"
+                              aria-label="Slide 8"
+                            ></button>
                             <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
@@ -667,6 +673,16 @@
                             >
                               <img
                                 src="image/pak joko kantor2.png"
+                                class="d-block w-100"
+                                alt="Camera"
+                              />
+                            </div>
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="100000"
+                            >
+                              <img
+                                src="image/flyer seminar.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
