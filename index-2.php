@@ -525,12 +525,12 @@
                               data-mdb-slide-to="7"
                               aria-label="Slide 8"
                             ></button>
-                            <!-- <button
+                            <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
-                              data-mdb-slide-to="7"
-                              aria-label="Slide 8"
-                            ></button> -->
+                              data-mdb-slide-to="8"
+                              aria-label="Slide 9"
+                            ></button>
                             <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
@@ -683,6 +683,16 @@
                             >
                               <img
                                 src="image/flyer seminar2.png"
+                                class="d-block w-100"
+                                alt="Camera"
+                              />
+                            </div>
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="100000"
+                            >
+                              <img
+                                src="image/Pelatihan PSR.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
