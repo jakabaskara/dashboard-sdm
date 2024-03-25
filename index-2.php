@@ -682,7 +682,7 @@
                               data-mdb-interval="100000"
                             >
                               <img
-                                src="image/flyer seminar.png"
+                                src="image/flyer seminar2.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
