@@ -1,5 +1,5 @@
 <?php
-// header("refresh: 1800;");
+header("refresh: 600;");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -53,7 +53,7 @@
         top: 1em;
         position: relative;
         box-sizing: border-box;
-        animation: marquee 20s linear 0s infinite;
+        animation: marquee 15s linear 0s infinite;
       }
 
       .marquee:hover {
@@ -554,7 +554,7 @@
                             <!-- Single item -->
                             <div
                               class="carousel-item active"
-                              data-mdb-interval="50000"
+                              data-mdb-interval="5000"
                             >
                               <div
                                 class="row justify-content-center align-item-center"
@@ -614,10 +614,7 @@
                                 alt="Camera"
                               />
                             </div> -->
-                            <div
-                              class="carousel-item"
-                              data-mdb-interval="100000"
-                            >
+                            <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/pak joko kantor.png"
                                 class="d-block w-100"
@@ -627,10 +624,7 @@
                             <!-- <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/Foto Burdas1.jpeg" class="d-block w-100" alt="Camera" />
                                                     </div> -->
-                            <div
-                              class="carousel-item"
-                              data-mdb-interval="100000"
-                            >
+                            <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/rapatcuti.png"
                                 class="d-block w-100"
@@ -647,50 +641,35 @@
                                 alt="Camera"
                               />
                             </div> -->
-                            <div
-                              class="carousel-item"
-                              data-mdb-interval="100000"
-                            >
+                            <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/pak joko kebun.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
                             </div>
-                            <div
-                              class="carousel-item"
-                              data-mdb-interval="100000"
-                            >
+                            <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/foto sdm 2.jpeg"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
                             </div>
-                            <div
-                              class="carousel-item"
-                              data-mdb-interval="100000"
-                            >
+                            <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/pak joko kantor2.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
                             </div>
-                            <div
-                              class="carousel-item"
-                              data-mdb-interval="100000"
-                            >
+                            <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/flyer seminar2.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
                             </div>
-                            <div
-                              class="carousel-item"
-                              data-mdb-interval="100000"
-                            >
+                            <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/Pelatihan PSR.png"
                                 class="d-block w-100"
@@ -703,10 +682,7 @@
                             <!-- <div class="carousel-item" data-mdb-interval="120000">
                                                         <img src="image/Desain tanpa judul.gif" class="d-block w-100" alt="Camera" />
                                                     </div> -->
-                            <div
-                              class="carousel-item"
-                              data-mdb-interval="50000"
-                            >
+                            <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/quote-sdm1.png"
                                 class="d-block w-100"
