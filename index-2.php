@@ -525,12 +525,12 @@ header("refresh: 600;");
                               data-mdb-slide-to="7"
                               aria-label="Slide 8"
                             ></button>
-                            <button
+                            <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="8"
                               aria-label="Slide 9"
-                            ></button>
+                            ></button> -->
                             <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
@@ -644,13 +644,6 @@ header("refresh: 600;");
                             <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/pak joko kebun.png"
-                                class="d-block w-100"
-                                alt="Camera"
-                              />
-                            </div>
-                            <div class="carousel-item" data-mdb-interval="5000">
-                              <img
-                                src="image/foto sdm 2.jpeg"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
