@@ -657,7 +657,7 @@ header("refresh: 600;");
                             </div>
                             <div class="carousel-item" data-mdb-interval="5000">
                               <img
-                                src="image/flyer seminar2.png"
+                                src="image/flyer seminar3.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
