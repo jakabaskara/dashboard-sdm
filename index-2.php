@@ -501,24 +501,24 @@ header("refresh: 600;");
                               data-mdb-slide-to="3"
                               aria-label="Slide 4"
                             ></button>
-                            <button
+                            <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="4"
                               aria-label="Slide 5"
-                            ></button>
-                            <button
+                            ></button> -->
+                            <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="5"
                               aria-label="Slide 6"
-                            ></button>
-                            <button
+                            ></button> -->
+                            <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="6"
                               aria-label="Slide 7"
-                            ></button>
+                            ></button> -->
                             <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
@@ -627,13 +627,13 @@ header("refresh: 600;");
                             <!-- <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/Foto Burdas1.jpeg" class="d-block w-100" alt="Camera" />
                                                     </div> -->
-                            <div class="carousel-item" data-mdb-interval="5000">
+                            <!-- <div class="carousel-item" data-mdb-interval="5000">
                               <img
                                 src="image/pak joko kantor.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div>
+                            </div> -->
                             <!-- <div
                               class="carousel-item"
                               data-mdb-interval="100000"
@@ -644,7 +644,7 @@ header("refresh: 600;");
                                 alt="Camera"
                               />
                             </div> -->
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="10000"
                             >
@@ -653,7 +653,7 @@ header("refresh: 600;");
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div>
+                            </div> -->
                             <div
                               class="carousel-item"
                               data-mdb-interval="10000"
@@ -664,7 +664,7 @@ header("refresh: 600;");
                                 alt="Camera"
                               />
                             </div>
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="10000"
                             >
@@ -673,7 +673,7 @@ header("refresh: 600;");
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div>
+                            </div> -->
                             <div
                               class="carousel-item"
                               data-mdb-interval="10000"
@@ -695,7 +695,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/quote-sdm1.png"
+                                src="image/HBD .png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
