@@ -519,12 +519,12 @@ header("refresh: 600;");
                               data-mdb-slide-to="6"
                               aria-label="Slide 7"
                             ></button>
-                            <button
+                            <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="7"
                               aria-label="Slide 8"
-                            ></button>
+                            ></button> -->
                             <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
@@ -552,7 +552,7 @@ header("refresh: 600;");
                           <!-- Inner -->
                           <div class="carousel-inner rounded-5 shadow-4-strong">
                             <!-- Single item -->
-                            <div
+                            <!-- <div
                               class="carousel-item active"
                               data-mdb-interval="5000"
                             >
@@ -567,7 +567,7 @@ header("refresh: 600;");
                                   />
                                 </div>
                               </div>
-                            </div>
+                            </div> -->
 
                             <!-- <div
                               class="carousel-item"
@@ -614,9 +614,12 @@ header("refresh: 600;");
                                 alt="Camera"
                               />
                             </div> -->
-                            <div class="carousel-item" data-mdb-interval="5000">
+                            <div
+                              class="carousel-item active"
+                              data-mdb-interval="10000"
+                            >
                               <img
-                                src="image/eid mub.png"
+                                src="image/happy eid.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
@@ -641,28 +644,40 @@ header("refresh: 600;");
                                 alt="Camera"
                               />
                             </div> -->
-                            <div class="carousel-item" data-mdb-interval="5000">
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="10000"
+                            >
                               <img
                                 src="image/pak joko kebun.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
                             </div>
-                            <div class="carousel-item" data-mdb-interval="5000">
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="10000"
+                            >
                               <img
                                 src="image/semangat kerja.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
                             </div>
-                            <div class="carousel-item" data-mdb-interval="5000">
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="10000"
+                            >
                               <img
                                 src="image/flyer seminar3.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
                             </div>
-                            <div class="carousel-item" data-mdb-interval="5000">
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="10000"
+                            >
                               <img
                                 src="image/Pelatihan PSR.png"
                                 class="d-block w-100"
@@ -675,7 +690,10 @@ header("refresh: 600;");
                             <!-- <div class="carousel-item" data-mdb-interval="120000">
                                                         <img src="image/Desain tanpa judul.gif" class="d-block w-100" alt="Camera" />
                                                     </div> -->
-                            <div class="carousel-item" data-mdb-interval="5000">
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="10000"
+                            >
                               <img
                                 src="image/quote-sdm1.png"
                                 class="d-block w-100"
