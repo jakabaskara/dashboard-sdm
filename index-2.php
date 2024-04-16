@@ -616,7 +616,7 @@ header("refresh: 600;");
                             </div> -->
                             <div class="carousel-item" data-mdb-interval="5000">
                               <img
-                                src="image/pak joko kantor.png"
+                                src="image/eid mub.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
@@ -626,7 +626,7 @@ header("refresh: 600;");
                                                     </div> -->
                             <div class="carousel-item" data-mdb-interval="5000">
                               <img
-                                src="image/rapatcuti.png"
+                                src="image/pak joko kantor.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
