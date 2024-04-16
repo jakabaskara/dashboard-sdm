@@ -650,7 +650,7 @@ header("refresh: 600;");
                             </div>
                             <div class="carousel-item" data-mdb-interval="5000">
                               <img
-                                src="image/pak joko kantor2.png"
+                                src="image/semangat kerja.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
