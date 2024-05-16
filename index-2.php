@@ -619,7 +619,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/happy eid.png"
+                                src="image/ERP 1.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
@@ -659,7 +659,17 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/semangat kerja.png"
+                                src="image/ERP 2.png"
+                                class="d-block w-100"
+                                alt="Camera"
+                              />
+                            </div>
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="10000"
+                            >
+                              <img
+                                src="image/ERP 3.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
@@ -669,21 +679,11 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/flyer seminar3.png"
-                                class="d-block w-100"
-                                alt="Camera"
-                              />
-                            </div> -->
-                            <div
-                              class="carousel-item"
-                              data-mdb-interval="10000"
-                            >
-                              <img
                                 src="image/Pelatihan PSR.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div>
+                            </div> -->
                             <!-- <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/ptpn-mengajar3.jpeg" class="d-block mx-auto w-75" alt="Camera" />
                                                     </div> -->
@@ -695,7 +695,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/HBD .png"
+                                src="image/ERP 4.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
