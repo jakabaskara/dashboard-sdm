@@ -94,6 +94,20 @@ header("refresh: 600;");
           } */
       }
 
+      @keyframes marquee-informasi {
+        0% {
+          transform: translate(0, 0);
+        }
+
+        100% {
+          transform: translate(0, -100%);
+        }
+
+        /* 100% {
+              transform: translate(0, 0);
+          } */
+      }
+
       .blink {
         animation: blink-animation 1s steps(5, start) infinite;
         -webkit-animation: blink-animation 1s steps(5, start) infinite;
@@ -303,9 +317,10 @@ header("refresh: 600;");
                         class="card-body py-0 my-0 d-flex align-items-center justify-content-center"
                         style="font-size: 18px; height: 100px"
                       >
-                        <p class="my-3 text-white align-middle">
+                        
+                        <!-- <p class="my-3 text-white align-middle">
                           Belum Ada Informasi
-                        </p>
+                        </p> -->
                         <!-- <p class="text-start pt-0 mt-0"><strong>Plt Kepala Bagian: Joko Susanto</strong></p>
                                             <p class="mt-0 pb-0 mb-0 pt-0 text-start">Karyawan Dinas:
                                             <ol class="text/-start pb-0 mb-0">
@@ -501,18 +516,18 @@ header("refresh: 600;");
                               data-mdb-slide-to="3"
                               aria-label="Slide 4"
                             ></button>
-                            <!-- <button
+                            <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="4"
                               aria-label="Slide 5"
-                            ></button> -->
-                            <!-- <button
+                            ></button>
+                            <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="5"
                               aria-label="Slide 6"
-                            ></button> -->
+                            ></button>
                             <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
@@ -634,26 +649,26 @@ header("refresh: 600;");
                                 alt="Camera"
                               />
                             </div> -->
-                            <!-- <div
+                            <div
                               class="carousel-item"
                               data-mdb-interval="100000"
                             >
                               <img
-                                src="image/Foto Burdas2.jpeg"
+                                src="image/sap 1.gif"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div> -->
-                            <!-- <div
+                            </div>
+                            <div
                               class="carousel-item"
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/pak joko kebun.png"
+                                src="image/sap 2.gif"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div> -->
+                            </div>
                             <div
                               class="carousel-item"
                               data-mdb-interval="10000"
