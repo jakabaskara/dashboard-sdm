@@ -56,6 +56,13 @@ header("refresh: 600;");
         animation: marquee 15s linear 0s infinite;
       }
 
+      /* .marquee-informasi {
+        top: 1em;
+        position: relative;
+        box-sizing: border-box;
+        animation: marquee 15s linear 0s infinite;
+      } */
+
       .marquee:hover {
         animation-play-state: paused;
       }
@@ -94,7 +101,7 @@ header("refresh: 600;");
           } */
       }
 
-      @keyframes marquee-informasi {
+      /* @keyframes marquee-informasi {
         0% {
           transform: translate(0, 0);
         }
@@ -102,11 +109,7 @@ header("refresh: 600;");
         100% {
           transform: translate(0, -100%);
         }
-
-        /* 100% {
-              transform: translate(0, 0);
-          } */
-      }
+      } */
 
       .blink {
         animation: blink-animation 1s steps(5, start) infinite;
@@ -305,7 +308,7 @@ header("refresh: 600;");
                       </div>
                     </div>
                   </div>
-                  <div class="col-12 mt-2">
+                  <div class="col-12 mt-1">
                     <div class="card" style="background-color: #171e24">
                       <div
                         class="card-header pb-0 pt-1"
@@ -313,14 +316,48 @@ header("refresh: 600;");
                       >
                         <h4 class="text-center text-white">Informasi</h4>
                       </div>
+
                       <div
                         class="card-body py-0 my-0 d-flex align-items-center justify-content-center"
                         style="font-size: 18px; height: 100px"
                       >
-                        
-                        <!-- <p class="my-3 text-white align-middle">
+                        <p class="my-3 text-white align-middle">
                           Belum Ada Informasi
-                        </p> -->
+                        </p>
+                        <!-- <div
+                          class="card-body p-1"
+                          style="background-color: #171e24"
+                        > -->
+                        <!-- <div class="table-responsive">
+                            <table
+                              class="table table-hover table-sm text-dark table-borderless"
+                              style="background-color: #171e24; font-size: 17px"
+                            >
+                              <tbody
+                                class="marquee-informasi text-white"
+                                style="font-size: 26px"
+                              >
+                                <tr class="text-center">
+                                  <th>13.01</th>
+                                  <td>2</td>
+                                  <td>1</td>
+                                  <td>0</td>
+                                </tr>
+                                <tr class="text-center">
+                                  <th>13.02</th>
+                                  <td>0</td>
+                                  <td>1</td>
+                                  <td>0</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div> -->
+
                         <!-- <p class="text-start pt-0 mt-0"><strong>Plt Kepala Bagian: Joko Susanto</strong></p>
                                             <p class="mt-0 pb-0 mb-0 pt-0 text-start">Karyawan Dinas:
                                             <ol class="text/-start pb-0 mb-0">
@@ -649,7 +686,7 @@ header("refresh: 600;");
                                 alt="Camera"
                               />
                             </div> -->
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="100000"
                             >
@@ -658,8 +695,8 @@ header("refresh: 600;");
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div>
-                            <div
+                            </div> -->
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="10000"
                             >
@@ -668,7 +705,7 @@ header("refresh: 600;");
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div>
+                            </div> -->
                             <div
                               class="carousel-item"
                               data-mdb-interval="10000"
@@ -702,9 +739,7 @@ header("refresh: 600;");
                             <!-- <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/ptpn-mengajar3.jpeg" class="d-block mx-auto w-75" alt="Camera" />
                                                     </div> -->
-                            <!-- <div class="carousel-item" data-mdb-interval="120000">
-                                                        <img src="image/Desain tanpa judul.gif" class="d-block w-100" alt="Camera" />
-                                                    </div> -->
+
                             <div
                               class="carousel-item"
                               data-mdb-interval="10000"
@@ -714,6 +749,23 @@ header("refresh: 600;");
                                 class="d-block w-100"
                                 alt="Camera"
                               />
+                            </div>
+
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="10000"
+                            >
+                              <video class="img-fluid" autoplay loop muted>
+                                <source src="image/erp sap 1.mp4" />
+                              </video>
+                            </div>
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="10000"
+                            >
+                              <video class="img-fluid" autoplay loop muted>
+                                <source src="image/erp sap 2.mp4" />
+                              </video>
                             </div>
                           </div>
                           <!-- Inner -->
