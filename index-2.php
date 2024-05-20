@@ -56,12 +56,12 @@ header("refresh: 600;");
         animation: marquee 15s linear 0s infinite;
       }
 
-      /* .marquee-informasi {
+      .marquee-informasi {
         top: 1em;
         position: relative;
         box-sizing: border-box;
         animation: marquee 15s linear 0s infinite;
-      } */
+      }
 
       .marquee:hover {
         animation-play-state: paused;
@@ -317,13 +317,63 @@ header("refresh: 600;");
                         <h4 class="text-center text-white">Informasi</h4>
                       </div>
 
-                      <div
+                      <!-- <div
                         class="card-body py-0 my-0 d-flex align-items-center justify-content-center"
                         style="font-size: 18px; height: 100px"
-                      >
-                        <p class="my-3 text-white align-middle">
+                      > -->
+                      <!-- <p class="my-3 text-white align-middle">
                           Belum Ada Informasi
-                        </p>
+                        </p> -->
+
+                      <div class="table-responsive">
+                        <table
+                          class="table table-hover table-sm text-dark table-borderless"
+                          style="background-color: #171e24; font-size: 17px"
+                        >
+                          <thead>
+                            <tr
+                              class="text-center align-middle head-table text-white"
+                            >
+                              <th></th>
+                              <th>Pakaian Kerja</th>
+                            </tr>
+                          </thead>
+                          <tbody
+                            class="marquee-magang text-white"
+                            style="font-size: 26px"
+                          >
+                            <tr class="text-center">
+                              <th>Senin:</th>
+
+                              <td>Pakaian Kerja Putih</td>
+                            </tr>
+                            <tr class="text-center">
+                              <th>Selasa:</th>
+
+                              <td>Pakaian Kerja Biru</td>
+                            </tr>
+                            <tr class="text-center">
+                              <th>Rabu:</th>
+
+                              <td>Batik</td>
+                            </tr>
+                            <tr class="text-center">
+                              <th>Kamis:</th>
+
+                              <td>Batik</td>
+                            </tr>
+                            <tr class="text-center">
+                              <th>Jumat:</th>
+
+                              <td>Bebas Rapi</td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                              <td></td>
+                            </tr>
+                          </tbody>
+                        </table>
+
                         <!-- <div
                           class="card-body p-1"
                           style="background-color: #171e24"
