@@ -334,7 +334,7 @@ header("refresh: 600;");
                             <tr
                               class="text-center align-middle head-table text-white"
                             >
-                              <th></th>
+                              <th>Hari</th>
                               <th>Pakaian Kerja</th>
                             </tr>
                           </thead>
@@ -345,12 +345,12 @@ header("refresh: 600;");
                             <tr class="text-center">
                               <th>Senin:</th>
 
-                              <td>Pakaian Kerja Putih</td>
+                              <td>Baju Dinas Putih</td>
                             </tr>
                             <tr class="text-center">
                               <th>Selasa:</th>
 
-                              <td>Pakaian Kerja Biru</td>
+                              <td>Baju Dinas Biru</td>
                             </tr>
                             <tr class="text-center">
                               <th>Rabu:</th>
