@@ -805,6 +805,17 @@ header("refresh: 600;");
                               class="carousel-item"
                               data-mdb-interval="10000"
                             >
+                              <img
+                                src="image/quotes.png"
+                                class="d-block w-100"
+                                alt="Camera"
+                              />
+                            </div>
+
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="10000"
+                            >
                               <video class="img-fluid" autoplay loop muted>
                                 <source src="image/erp sap 1.mp4" />
                               </video>
