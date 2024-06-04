@@ -239,58 +239,58 @@ header("refresh: 600;");
                               style="font-size: 26px"
                             >
                               <tr class="text-center">
-                                <th>13.00</th>
-                                <td>0</td>
-                                <td>4</td>
-                                <td>0</td>
-                              </tr>
-                              <tr class="text-center">
-                                <th>13.SPI</th>
-                                <td>1</td>
-                                <td>0</td>
-                                <td>0</td>
-                              </tr>
-                              <tr class="text-center">
-                                <th>13.01</th>
-                                <td>2</td>
-                                <td>1</td>
-                                <td>0</td>
-                              </tr>
-                              <tr class="text-center">
-                                <th>13.02</th>
-                                <td>0</td>
-                                <td>1</td>
-                                <td>0</td>
-                              </tr>
-                              <tr class="text-center">
-                                <th>13.03</th>
-                                <td>1</td>
-                                <td>0</td>
-                                <td>2</td>
-                              </tr>
-                              <tr class="text-center">
-                                <th>13.04</th>
-                                <td>2</td>
-                                <td>2</td>
-                                <td>0</td>
-                              </tr>
-                              <tr class="text-center">
-                                <th>13.05</th>
-                                <td>6</td>
+                                <th>5SKH</th>
                                 <td>3</td>
+                                <td>2</td>
                                 <td>0</td>
                               </tr>
                               <tr class="text-center">
-                                <th>13.06</th>
+                                <th>5PW</th>
                                 <td>0</td>
-                                <td>4</td>
+                                <td>1</td>
+                                <td>0</td>
+                              </tr>
+                              <tr class="text-center">
+                                <th>5TAN</th>
                                 <td>2</td>
+                                <td>1</td>
+                                <td>0</td>
+                              </tr>
+                              <tr class="text-center">
+                                <th>5DPM</th>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                              </tr>
+                              <tr class="text-center">
+                                <th>5TEP</th>
+                                <td>0</td>
+                                <td>1</td>
+                                <td>0</td>
+                              </tr>
+                              <tr class="text-center">
+                                <th>5AKT</th>
+                                <td>0</td>
+                                <td>1</td>
+                                <td>0</td>
+                              </tr>
+                              <tr class="text-center">
+                                <th>5SDM</th>
+                                <td>3</td>
+                                <td>2</td>
+                                <td>0</td>
+                              </tr>
+                              <tr class="text-center">
+                                <th>5PTI</th>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
                               </tr>
                               <tr class="text-center">
                                 <th>13.07</th>
-                                <td>1</td>
                                 <td>0</td>
-                                <td>13</td>
+                                <td>0</td>
+                                <td>0</td>
                               </tr>
                               <tr class="text-center">
                                 <th>Jumlah</th>
