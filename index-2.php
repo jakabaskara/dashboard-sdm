@@ -240,8 +240,8 @@ header("refresh: 600;");
                             >
                               <tr class="text-center">
                                 <th>5SKH</th>
-                                <td>3</td>
-                                <td>2</td>
+                                <td>0</td>
+                                <td>0</td>
                                 <td>0</td>
                               </tr>
                               <tr class="text-center">
@@ -264,8 +264,8 @@ header("refresh: 600;");
                               </tr>
                               <tr class="text-center">
                                 <th>5TEP</th>
-                                <td>0</td>
                                 <td>1</td>
+                                <td>0</td>
                                 <td>0</td>
                               </tr>
                               <tr class="text-center">
@@ -294,9 +294,9 @@ header("refresh: 600;");
                               </tr>
                               <tr class="text-center">
                                 <th>Jumlah</th>
-                                <th>11</th>
                                 <th>6</th>
-                                <th>17</th>
+                                <th>5</th>
+                                <th>0</th>
                               </tr>
                               <tr>
                                 <td></td>
