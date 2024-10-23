@@ -22,7 +22,7 @@ header("refresh: 600;");
       href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.1/mdb.min.css"
       rel="stylesheet"
     />
-    <title>Dashboard - SDM</title>
+    <title>Dashboard - SDM & SM PT Perkebunan Nusantara IV Regional V</title>
     <style>
       #intro {
         background-image: url("image/bg-bnw.jpeg");
@@ -39,7 +39,7 @@ header("refresh: 600;");
 
       #clock {
         font-size: 24px;
-        color: #333;
+        color: #ffffff;
       }
 
       .marquee {
@@ -151,7 +151,7 @@ header("refresh: 600;");
                       >
                         <h4 class="text-center my-0">
                           <span><i class="fas fas fa-user-tie fa-xs"></i></span>
-                          Jumlah Karyawan
+                          Jumlah Tenaga Kerja
                         </h4>
                       </div>
                       <div class="card-body p-0">
@@ -174,32 +174,32 @@ header("refresh: 600;");
                               style="font-size: 25px"
                             >
                               <tr>
-                                <td>BOD-1</td>
-                                <td>46</td>
+                                <td>RM-1</td>
+                                <td>44</td>
                               </tr>
                               <tr>
-                                <td>BOD-2</td>
-                                <td>80</td>
+                                <td>RM-2</td>
+                                <td>75</td>
                               </tr>
                               <tr>
-                                <td>BOD-3</td>
-                                <td>252</td>
+                                <td>RM-3</td>
+                                <td>248</td>
                               </tr>
                               <tr>
-                                <td>BOD-4</td>
-                                <td>187</td>
+                                <td>RM-4</td>
+                                <td>177</td>
                               </tr>
                               <tr>
-                                <td>BOD-5</td>
-                                <td>1.974</td>
+                                <td>RM-5</td>
+                                <td>1.802</td>
                               </tr>
                               <tr>
-                                <td>BOD-6</td>
-                                <td>4.004</td>
+                                <td>RM-6</td>
+                                <td>3.718</td>
                               </tr>
                               <tr>
                                 <th>Total</th>
-                                <th>6.543</th>
+                                <th>6.064</th>
                               </tr>
                             </tbody>
                           </table>
@@ -211,9 +211,9 @@ header("refresh: 600;");
                     <div class="card" style="height: 220px; overflow: hidden">
                       <div
                         class="card-header card-header m-0 pb-0 pt-1"
-                        style="background-color: #213558"
+                        style="background-color: #213558" 
                       >
-                        <h4 class="text-center text-white">Data Anak Magang</h4>
+                        <h4 class="text-center text-white">Jumlah Magang/PKL</h4>
                       </div>
                       <div
                         class="card-body p-1"
@@ -222,16 +222,16 @@ header("refresh: 600;");
                         <div class="table-responsive">
                           <table
                             class="table table-hover table-sm text-dark table-borderless"
-                            style="background-color: #171e24; font-size: 17px"
+                            style="background-color: #171e24; font-size: 13px"
                           >
                             <thead>
                               <tr
                                 class="text-center align-middle head-table text-white"
                               >
                                 <th>Bagian</th>
-                                <th>PMMB</th>
-                                <th>PKL(M)</th>
-                                <th>PKL(S)</th>
+                                <th>MAGENTA</th>
+                                <th>MBKM/KP</th>
+                                <th>PKL/PI</th>
                               </tr>
                             </thead>
                             <tbody
@@ -240,25 +240,25 @@ header("refresh: 600;");
                             >
                               <tr class="text-center">
                                 <th>5SKH</th>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>0</td>
+                                <td>2</td>
+                                <td>1</td>
+                                <td>1</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5PW</th>
-                                <td>0</td>
                                 <td>1</td>
                                 <td>0</td>
+                                <td>1</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5TAN</th>
-                                <td>2</td>
                                 <td>1</td>
+                                <td>2</td>
                                 <td>0</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5DPM</th>
-                                <td>0</td>
+                                <td>1</td>
                                 <td>0</td>
                                 <td>0</td>
                               </tr>
@@ -270,33 +270,33 @@ header("refresh: 600;");
                               </tr>
                               <tr class="text-center">
                                 <th>5AKT</th>
-                                <td>0</td>
+                                <td>3</td>
                                 <td>1</td>
-                                <td>0</td>
+                                <td>4</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5SDM</th>
                                 <td>3</td>
-                                <td>2</td>
                                 <td>0</td>
+                                <td>4</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5PTI</th>
-                                <td>0</td>
-                                <td>0</td>
-                                <td>0</td>
+                                <td>2</td>
+                                <td>1</td>
+                                <td>2</td>
                               </tr>
                               <tr class="text-center">
-                                <th>13.07</th>
-                                <td>0</td>
+                                <th>5PMO</th>
+                                <td>1</td>
                                 <td>0</td>
                                 <td>0</td>
                               </tr>
                               <tr class="text-center">
                                 <th>Jumlah</th>
-                                <th>6</th>
+                                <th>15</th>
                                 <th>5</th>
-                                <th>0</th>
+                                <th>12</th>
                               </tr>
                               <tr>
                                 <td></td>
@@ -343,27 +343,27 @@ header("refresh: 600;");
                             style="font-size: 26px"
                           >
                             <tr class="text-center">
-                              <th>Senin:</th>
+                              <th>Senin</th>
 
                               <td>Baju Dinas Putih</td>
                             </tr>
                             <tr class="text-center">
-                              <th>Selasa:</th>
+                              <th>Selasa</th>
 
                               <td>Baju Dinas Biru</td>
                             </tr>
                             <tr class="text-center">
-                              <th>Rabu:</th>
+                              <th>Rabu</th>
 
                               <td>Batik</td>
                             </tr>
                             <tr class="text-center">
-                              <th>Kamis:</th>
+                              <th>Kamis</th>
 
-                              <td>Batik</td>
+                              <td>Kemeja Bebas</td>
                             </tr>
                             <tr class="text-center">
-                              <th>Jumat:</th>
+                              <th>Jumat</th>
 
                               <td>Bebas Rapi</td>
                             </tr>
@@ -443,14 +443,15 @@ header("refresh: 600;");
                       style="height: 435px; background-color: #171e24"
                     >
                       <div class="card-header py-2">
-                        <h4 class="text-white p-0 m-0">Jadwal Hari Ini</h4>
+                        <!-- <h4 class="text-white p-0 m-0">Jadwal Minggu Ini</h4> -->
+                        <h4 class="text-white p-0 m-0" style="font-size: 25px;">Jadwal Bulan Ini</h4>
                       </div>
                       <div class="card-body p-2">
-                        <p class="alert alert-info py-2 px-2 text-start">
+                        <p class="alert alert-success py-2 px-2 text-start" style="background-color: #e4a11b; color:white;">
                           <span
                             ><i class="far fa-circle-dot text-danger blink"></i
                           ></span>
-                          Hari Ini
+                          Kegiatan Minggu Ini
                         </p>
                         <div class="table-responsive">
                           <table
@@ -458,12 +459,19 @@ header("refresh: 600;");
                           >
                             <thead>
                               <tr>
-                                <th>Jam</th>
+                                <th>Hari</th>
                                 <th>Agenda</th>
                               </tr>
                             </thead>
                             <tbody class="align-middle">
-                              <td colspan="2">Belum ada agenda</td>
+                              <tr>
+                                <td>Rabu</td> <!-- Kolom Hari -->
+                                <td>GESIT</td> <!-- Kolom Agenda -->
+                              </tr>
+                              <tr>
+                                <td>Kamis</td> <!-- Kolom Hari -->
+                                <td>Resonansi</td> <!-- Kolom Agenda -->
+                              </tr>
 
                               <!-- <tr>
                                                             <td class="text-white">09:00 - 11:00</td>
@@ -500,8 +508,9 @@ header("refresh: 600;");
                             </tbody>
                           </table>
                         </div>
-                        <p class="alert alert-success py-2 px-2 text-start">
-                          Akan Datang
+                        <p
+                        class="alert alert-success py-2 px-2 text-start" style="background-color: #e4a11b; color:white;">
+                          Kegiatan Akan Datang
                         </p>
                         <div class="table-responsive">
                           <table
@@ -509,14 +518,22 @@ header("refresh: 600;");
                           >
                             <thead>
                               <tr>
-                                <th>Jam</th>
+                              <thead>
+                              <tr>
+                                <th>Tanggal</th>
                                 <th>Agenda</th>
                               </tr>
                             </thead>
-                            <tbody class="align-middle text-white">
-                              <td colspan="2" class="text-white">
-                                Belum ada agenda
-                              </td>
+                            <tbody class="align-middle">
+                              <tr>
+                                <td style="color: white;">23/10/2024</td> 
+                                <td style="color: white;">TH Meeting</td>
+                              </tr>
+                              <tr>
+                                <td>23/10/2024</td> <!-- Kolom Tanggal -->
+                                <td style="font-size: 12px;">SIO Alat Berat, PAA</td>  <!-- Kolom Agenda -->
+                              </tr>
+                              
 
                               <!-- <tr>
                                                             <td class="text-white">14:00 - Selesai</td>
@@ -561,7 +578,7 @@ header("refresh: 600;");
                 >
                   <div class="card-header">
                     <h4 class="text-start mb-0 text-white">
-                      Bagian Sumber Daya Manusia
+                      Bagian SDM dan Sistem Manajemen Kantor Regional Office
                     </h4>
                   </div>
                   <div
@@ -614,6 +631,18 @@ header("refresh: 600;");
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="5"
                               aria-label="Slide 6"
+                            ></button>
+                            <button
+                              type="button"
+                              data-mdb-target="#carouselVideoExample"
+                              data-mdb-slide-to="6"
+                              aria-label="Slide 7"
+                            ></button>
+                            <button
+                              type="button"
+                              data-mdb-target="#carouselVideoExample"
+                              data-mdb-slide-to="7"
+                              aria-label="Slide 8"
                             ></button>
                             <!-- <button
                               type="button"
@@ -761,7 +790,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/ERP 2.png"
+                                src="image/selamat_datang.jpeg"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
@@ -771,7 +800,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/ERP 3.png"
+                                src="image/quote2 (2).jpeg"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
@@ -795,7 +824,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/ERP 4.png"
+                                src="image/quote-sdm1.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
@@ -806,7 +835,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/quotes.png"
+                                src="image/foto-ultah-ptk.png"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
@@ -814,10 +843,19 @@ header("refresh: 600;");
 
                             <div
                               class="carousel-item"
-                              data-mdb-interval="10000"
+                              data-mdb-interval="15000"
                             >
                               <video class="img-fluid" autoplay loop muted>
-                                <source src="image/erp sap 1.mp4" />
+                                <source src="image/ultahptk.mp4" />
+                              </video>
+                            </div>
+
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="100000"
+                            >
+                              <video class="img-fluid" autoplay loop muted>
+                                <source src="image/gabungan_video_gesit.mp4" />
                               </video>
                             </div>
                             <div
@@ -825,7 +863,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <video class="img-fluid" autoplay loop muted>
-                                <source src="image/erp sap 2.mp4" />
+                                <source src="image/berita-20102024-kabinetprabowo-fix.mp4" />
                               </video>
                             </div>
                           </div>
@@ -885,11 +923,11 @@ header("refresh: 600;");
               class="col m-0 d-flex align-items-center justify-content-center bg-dark"
             >
               <marquee behavior="scroll" direction="left" class="text-white">
-                <h5 class="m-0 pt-0 d-flex" style="font-size: 54px">
-                  Selamat Datang di Bagian Sumber Daya Manusia Kantor Direksi |
+                <h5 class="m-0 pt-0 d-flex" style="font-size: 34px">
+                  Selamat Datang di Bagian Sumber Daya Manusia dan Sistem Manajemen Kantor Direksi |
                   AKHLAK - Amanah, Kompeten, Harmonis, Loyal, Adaptif,
                   Kolaboratif | Amanah: Memenuhi Janji dan Komitmen, Bertanggung
-                  jawab atas tugas, Keputusan, dan Tindakan yang Dilakukan,
+                  Jawab atas Tugas, Keputusan, dan Tindakan yang dilakukan, serta
                   Berpegang Teguh kepada Nilai Moral dan Etika
                 </h5>
               </marquee>
