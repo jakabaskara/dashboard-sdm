@@ -854,7 +854,7 @@ header("refresh: 600;");
                               class="carousel-item"
                               data-mdb-interval="100000"
                             >
-                              <video class="img-fluid" autoplay loop muted>
+                              <video class="img-fluid" autoplay loop muted> 
                                 <source src="image/kompilasi-gesit-fix.mp4" />
                               </video>
                             </div>
@@ -863,7 +863,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <video class="img-fluid" autoplay loop muted>
-                                <source src="image/berita-kabinet-fix.mp4" />
+                                <source src="image/berita-kabinet-prabowo-fix.mp4" />
                               </video>
                             </div>
                           </div>
