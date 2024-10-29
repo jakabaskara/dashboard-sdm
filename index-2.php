@@ -827,13 +827,11 @@ header("refresh: 600;");
 
                             <div
                               class="carousel-item"
-                              data-mdb-interval="10000"
+                              data-mdb-interval="15000"
                             >
-                              <img
-                                src="image/quote2 (2).jpeg"
-                                class="d-block w-100"
-                                alt="Camera"
-                              />
+                              <video class="img-fluid" autoplay loop muted>
+                                <source src="image/corporate-quotes1.mp4" />
+                              </video>
                             </div>
                             <!-- <div
                               class="carousel-item"
