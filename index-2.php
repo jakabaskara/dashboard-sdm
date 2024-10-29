@@ -526,13 +526,13 @@ header("refresh: 600;");
                             </thead>
                             <tbody class="align-middle">
                               <tr>
-                                <td style="color: white;">23/10/2024</td> 
-                                <td style="color: white;">TH Meeting</td>
+                                <td style="color: white;">29/10/2024</td> 
+                                <td style="color: white;">ERP SAP</td>
                               </tr>
-                              <tr>
-                                <td>23/10/2024</td> <!-- Kolom Tanggal -->
-                                <td style="font-size: 12px;">SIO Alat Berat, PAA</td>  <!-- Kolom Agenda -->
-                              </tr>
+                              <!-- <tr>
+                                <td>23/10/2024</td> 
+                                <td style="font-size: 12px;">SIO Alat Berat, PAA</td>  
+                              </tr> -->
                               
 
                               <!-- <tr>
@@ -819,7 +819,7 @@ header("refresh: 600;");
                                                         <img src="image/ptpn-mengajar3.jpeg" class="d-block mx-auto w-75" alt="Camera" />
                                                     </div> -->
 
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="10000"
                             >
@@ -828,11 +828,20 @@ header("refresh: 600;");
                                 class="d-block w-100"
                                 alt="Camera"
                               />
+                            </div> -->
+
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="15000"
+                            >
+                              <video class="img-fluid" autoplay loop muted>
+                                <source src="image/welgit come-erp-sap.mp4" />
+                              </video>
                             </div>
 
                             <div
                               class="carousel-item"
-                              data-mdb-interval="10000"
+                              data-mdb-interval="40000"
                             >
                               <img
                                 src="image/foto-ultah-ptk.png"
