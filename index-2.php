@@ -830,7 +830,7 @@ header("refresh: 600;");
                               data-mdb-interval="15000"
                             >
                               <video class="img-fluid" autoplay loop muted>
-                                <source src="image/corporate-quotes1.mp4" />
+                                <source src="image/corporate-quotes1-rev.mp4" />
                               </video>
                             </div>
                             <!-- <div
@@ -892,18 +892,59 @@ header("refresh: 600;");
                               data-mdb-interval="100000"
                             >
                               <video class="img-fluid" autoplay loop muted> 
-                                <source src="image/kompilasi-gesit-fix.mp4" />
+                                <source src="image/gesit-fix.mp4" />
                               </video>
                             </div>
+
                             <div
                               class="carousel-item"
-                              data-mdb-interval="10000"
+                              data-mdb-interval="70000"
                             >
                               <video class="img-fluid" autoplay loop muted>
-                                <source src="image/berita-kabinet-prabowo-fix.mp4" />
+                                <source src="image/berita-bumn.mp4" />
                               </video>
                             </div>
                           </div>
+
+                          <!-- <div class="carousel-item w-100" data-mdb-interval="100000">
+                          <iframe
+                            class="img-fluid"
+                            style="width: 100%; height: 100%;"
+                            src="https://www.youtube.com/embed/ZC5U3NvnYt8?autoplay=1&loop=1&mute=1&playlist=ZC5U3NvnYt8"
+                            frameborder="0"
+                            allow="autoplay; encrypted-media"
+                            allowfullscreen
+                          ></iframe>
+                        </div> -->
+
+                        <!-- <div class="carousel-item w-100" data-mdb-interval="100000">
+                          <div class="embed-responsive" style="position: relative; width: 100%; height: 100%; padding-bottom: 56.25%;">
+                            <iframe
+                              class="embed-responsive-item"
+                              src="https://www.youtube.com/embed/ZC5U3NvnYt8?autoplay=1&loop=1&mute=1&playlist=ZC5U3NvnYt8"
+                              frameborder="0"
+                              allow="autoplay; encrypted-media"
+                              allowfullscreen
+                              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                            ></iframe>
+                          </div>
+                        </div> -->
+                      
+                        <!-- ini kek pas 1 detik lgsng hilang-->
+                      <!-- <div class="carousel-item w-100" data-mdb-interval="100000">
+                      <div class="embed-responsive" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+                        <iframe
+                          class="embed-responsive-item"
+                          src="https://www.youtube.com/embed/ZC5U3NvnYt8?autoplay=1&loop=1&mute=1&playlist=ZC5U3NvnYt8"
+                          frameborder="0"
+                          allow="autoplay; encrypted-media"
+                          allowfullscreen
+                          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                        ></iframe>
+                      </div>
+                    </div> -->
+
+
                           <!-- Inner, -->
 
                           <!-- Controls -->
@@ -946,9 +987,9 @@ header("refresh: 600;");
         <div class="card rounded-0">
           <div class="row no-gutters">
             <div
-              class="col-2 bg-warning pe-0 m-0 pb-0 d-flex align-items-center justify-content-center"
+              class="col-2 bg-dark pe-0 m-0 pb-0 d-flex align-items-center justify-content-center"
             >
-              <div class="text-dark pb-0">
+              <div class="text-light pb-0">
                 <h1
                   class="text-center pb-0 pt-2"
                   id="clock"
