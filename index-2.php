@@ -898,10 +898,10 @@ header("refresh: 600;");
 
                             <div
                               class="carousel-item"
-                              data-mdb-interval="70000"
+                              data-mdb-interval="60000"
                             >
                               <video class="img-fluid" autoplay loop muted>
-                                <source src="image/berita-bumn.mp4" />
+                                <source src="image/vid-ptpn.mp4" />
                               </video>
                             </div>
                           </div>
