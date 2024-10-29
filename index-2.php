@@ -755,6 +755,15 @@ header("refresh: 600;");
                                 alt="Camera"
                               />
                             </div>
+
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="15000"
+                            >
+                              <video class="img-fluid" autoplay loop muted>
+                                <source src="image/welcome-erp-sap.mp4" />
+                              </video>
+                            </div>
                             <!-- <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/Foto Burdas1.jpeg" class="d-block w-100" alt="Camera" />
                                                     </div> -->
@@ -790,7 +799,7 @@ header("refresh: 600;");
                               data-mdb-interval="10000"
                             >
                               <img
-                                src="image/selamat_datang.jpeg"
+                                src="image/akhlak-culture-journey.jpeg"
                                 class="d-block w-100"
                                 alt="Camera"
                               />
@@ -830,14 +839,14 @@ header("refresh: 600;");
                               />
                             </div> -->
 
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="15000"
                             >
                               <video class="img-fluid" autoplay loop muted>
                                 <source src="image/welcome-erp-sap.mp4" />
                               </video>
-                            </div>
+                            </div> -->
 
                             <div
                               class="carousel-item"
