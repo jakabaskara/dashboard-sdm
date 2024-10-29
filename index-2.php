@@ -804,6 +804,27 @@ header("refresh: 600;");
                                 alt="Camera"
                               />
                             </div>
+
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="40000"
+                            >
+                              <img
+                                src="image/foto-ultah-ptk.png"
+                                class="d-block w-100"
+                                alt="Camera"
+                              />
+                            </div>
+
+                            <div
+                              class="carousel-item"
+                              data-mdb-interval="15000"
+                            >
+                              <video class="img-fluid" autoplay loop muted>
+                                <source src="image/ultahptk.mp4" />
+                              </video>
+                            </div>
+
                             <div
                               class="carousel-item"
                               data-mdb-interval="10000"
@@ -848,7 +869,7 @@ header("refresh: 600;");
                               </video>
                             </div> -->
 
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="40000"
                             >
@@ -866,7 +887,7 @@ header("refresh: 600;");
                               <video class="img-fluid" autoplay loop muted>
                                 <source src="image/ultahptk.mp4" />
                               </video>
-                            </div>
+                            </div> -->
 
                             <div
                               class="carousel-item"
@@ -970,7 +991,7 @@ header("refresh: 600;");
         clock.textContent = timeString;
       }
 
-      // Memanggil showTime setiap detik
+      // Memanggil showTime setiap detikk
       setInterval(showTime, 1000);
 
       // Memanggil showTime untuk pertama kali saat halaman dimuat
