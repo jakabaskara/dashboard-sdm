@@ -835,7 +835,7 @@ header("refresh: 600;");
                               data-mdb-interval="15000"
                             >
                               <video class="img-fluid" autoplay loop muted>
-                                <source src="image/welgit come-erp-sap.mp4" />
+                                <source src="image/welcome-erp-sap.mp4" />
                               </video>
                             </div>
 
