@@ -526,8 +526,8 @@ header("refresh: 600;");
                             </thead>
                             <tbody class="align-middle">
                               <tr>
-                                <td style="color: white;">29/10/2024</td> 
-                                <td style="color: white;">ERP SAP</td>
+                                <td style="color: white;">-</td> 
+                                <td style="color: white;">-</td>
                               </tr>
                               <!-- <tr>
                                 <td>23/10/2024</td> 
@@ -757,13 +757,24 @@ header("refresh: 600;");
                             </div>
 
                             <div
+                              class="carousel-item active"
+                              data-mdb-interval="10000"
+                            >
+                              <img
+                                src="image/sertif-bu-tria-batak.png"
+                                class="d-block w-100"
+                                alt="Camera"
+                              />
+                            </div>
+
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="15000"
                             >
                               <video class="img-fluid" autoplay loop muted>
-                                <source src="image/welcome-erp-sap.mp4" />
+                                <source src="image/sertif-bu-tria-batak.png" />
                               </video>
-                            </div>
+                            </div> -->
                             <!-- <div class="carousel-item" data-mdb-interval="100000">
                                                         <img src="image/Foto Burdas1.jpeg" class="d-block w-100" alt="Camera" />
                                                     </div> -->
