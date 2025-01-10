@@ -241,11 +241,11 @@ header("refresh: 600;");
                               <tr class="text-center">
                                 <th>5SKH</th>
                                 <td>2</td>
-                                <td>1</td>
-                                <td>1</td>
+                                <td>0</td>
+                                <td>2</td>
                               </tr>
                               <tr class="text-center">
-                                <th>5PW</th>
+                                <th>DSPI</th>
                                 <td>1</td>
                                 <td>0</td>
                                 <td>1</td>
@@ -253,50 +253,50 @@ header("refresh: 600;");
                               <tr class="text-center">
                                 <th>5TAN</th>
                                 <td>1</td>
-                                <td>2</td>
                                 <td>0</td>
+                                <td>5</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5DPM</th>
                                 <td>1</td>
                                 <td>0</td>
-                                <td>0</td>
+                                <td>3</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5TEP</th>
                                 <td>1</td>
                                 <td>0</td>
-                                <td>0</td>
+                                <td>1</td>
                               </tr>
                               <tr class="text-center">
-                                <th>5AKT</th>
+                                <th>5KEU</th>
                                 <td>3</td>
                                 <td>1</td>
-                                <td>4</td>
+                                <td>2</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5SDM</th>
                                 <td>3</td>
                                 <td>0</td>
-                                <td>4</td>
+                                <td>3</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5PTI</th>
                                 <td>2</td>
-                                <td>1</td>
-                                <td>2</td>
+                                <td>0</td>
+                                <td>0</td>
                               </tr>
                               <tr class="text-center">
                                 <th>5PMO</th>
                                 <td>1</td>
                                 <td>0</td>
-                                <td>0</td>
+                                <td>1</td>
                               </tr>
                               <tr class="text-center">
                                 <th>Jumlah</th>
                                 <th>15</th>
-                                <th>5</th>
-                                <th>12</th>
+                                <th>1</th>
+                                <th>18</th>
                               </tr>
                               <tr>
                                 <td></td>
