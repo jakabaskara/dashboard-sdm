@@ -638,12 +638,12 @@ header("refresh: 600;");
                               data-mdb-slide-to="6"
                               aria-label="Slide 7"
                             ></button>
-                            <button
+                            <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
                               data-mdb-slide-to="7"
                               aria-label="Slide 8"
-                            ></button>
+                            ></button> -->
                             <!-- <button
                               type="button"
                               data-mdb-target="#carouselVideoExample"
@@ -757,6 +757,15 @@ header("refresh: 600;");
                             </div>
 
                             <div
+                              class="carousel-item"
+                              data-mdb-interval="60000"
+                            >
+                              <video class="img-fluid" autoplay loop muted>
+                                <source src="image/kunj-dis.mp4" />
+                              </video>
+                            </div>
+                          </div>
+                            <!-- <div
                               class="carousel-item active"
                               data-mdb-interval="10000"
                             >
@@ -765,7 +774,7 @@ header("refresh: 600;");
                                 class="d-block w-100"
                                 alt="Camera"
                               />
-                            </div>
+                            </div> -->
 
                             <!-- <div
                               class="carousel-item"
@@ -827,21 +836,21 @@ header("refresh: 600;");
                               />
                             </div>
 
-                            <div
+                            <!-- <div
                               class="carousel-item"
                               data-mdb-interval="15000"
                             >
                               <video class="img-fluid" autoplay loop muted>
                                 <source src="image/ultahptk.mp4" />
                               </video>
-                            </div>
+                            </div> -->
 
                             <div
                               class="carousel-item"
                               data-mdb-interval="15000"
                             >
                               <video class="img-fluid" autoplay loop muted>
-                                <source src="image/corporate-quotes1-rev.mp4" />
+                                <source src="image/quotes-jan.mp4" />
                               </video>
                             </div>
                             <!-- <div
@@ -903,7 +912,7 @@ header("refresh: 600;");
                               data-mdb-interval="100000"
                             >
                               <video class="img-fluid" autoplay loop muted> 
-                                <source src="image/gesit-fix.mp4" />
+                                <source src="image/gesron-jan.mp4" />
                               </video>
                             </div>
 
